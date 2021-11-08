@@ -1,0 +1,10 @@
+main: de.bmxertv.pluginmanager.PluginManager
+author: Bmxertv_YT
+version: 1.0.0
+api-version: 1.17
+commands:
+  plugins:
+    usage: </command>
+    description: Open the Plugin GUI
+    aliases:
+      - pl
